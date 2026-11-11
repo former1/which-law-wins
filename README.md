@@ -25,8 +25,6 @@ Full instructions are in the **Phase One Team Handout** (in the shared Drive fol
 | Bugra | Scoring and baseline summary | Safety defence | Federico |
 | Federico | Template, combining and final checks | Tool use | Berk |
 
-The project lead coordinates and settles disagreements.
-
 ---
 
 ## Where things live
